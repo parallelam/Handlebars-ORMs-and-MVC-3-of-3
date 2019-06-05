@@ -1,0 +1,17 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "11-QuotesApp/Solved/package.json",
+        "11-QuotesApp/Unsolved/package.json",
+        "12-OrmExample/package.json",
+        "13-PartyDatabase/Solved/package.json",
+        "14-TheAsyncProblem/Solved/package.json",
+        "14-TheAsyncProblem/Unsolved/package.json",
+        "16-MvcExample/package.json",
+        "17-CatsApp/Solved/package.json",
+        "17-CatsApp/Unsolved/package.json"
+      ]
+    }
+  }
+}
